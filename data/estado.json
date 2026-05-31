@@ -1,0 +1,12 @@
+{
+  "actuadores": {
+    "bulb": "OFF",
+    "fan": "OFF",
+    "persiana": "ABIERTA"
+  },
+  "reglas": {
+    "Ventilación Confortable": true,
+    "Iluminación Automática": true,
+    "Control Solar de Persiana": true
+  }
+}
